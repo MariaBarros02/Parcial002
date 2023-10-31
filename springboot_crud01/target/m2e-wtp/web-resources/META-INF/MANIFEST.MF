@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: aleja
+Build-Jdk: 17.0.8.1
+Implementation-Title: springboot_crud01
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: co.edu.usco.pw
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot_crud01
+Created-By: Maven Integration for Eclipse
+
